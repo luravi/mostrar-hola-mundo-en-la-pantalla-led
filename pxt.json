@@ -1,5 +1,5 @@
 {
-    "name": "Mostrar \"Hola Mundo\" en la pantalla LED",
+    "name": "1. Mostrar \"Hola Mundo\" en la pantalla LED",
     "description": "",
     "dependencies": {
         "core": "*",
